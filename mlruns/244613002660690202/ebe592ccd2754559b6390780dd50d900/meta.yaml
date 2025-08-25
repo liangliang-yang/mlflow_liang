@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/244613002660690202/ebe592ccd2754559b6390780dd50d900/artifacts
+end_time: 1756077813330
+entry_point_name: ''
+experiment_id: '244613002660690202'
+lifecycle_stage: active
+run_id: ebe592ccd2754559b6390780dd50d900
+run_name: aged-sow-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756077811839
+status: 3
+tags: []
+user_id: liangliangyang
